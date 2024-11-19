@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AbiaraziJarduera</string>
+    <string name="TxtArtikulua">"Artikulua "</string>
+    <string name="TxtInportea">Inportea</string>
+    <string name="HintArikulua">Sartu zure izena</string>
+    <string name="HintInportea">Inporte brutoa</string>
+    <string name="BtnIva">+ BEZ</string>
+    <string name="BezTxt">Sartu Aplikatu Beharreko BEZ-a</string>
+    <string name="Radio1">4%</string>
+    <string name="Radio2">10%</string>
+    <string name="Radio3">21%</string>
+    <string name="Emaitza">Inporte Totala :</string>
+</resources>
